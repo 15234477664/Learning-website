@@ -16,6 +16,8 @@ http://www.swiper.com.cn/  动画效果
 
 http://www.htmleaf.com/  jQuery、html5和css3的插件库
 
+https://www.17sucai.com/pins/tag/359.html  jQuery、html5和css3的插件库
+
 http://i.jakeyu.top/2016/09/04/scrollTop-offsetTop-scrollLeft-offsetLeft/   获取各种总结
 
 https://github.com/getlantern/lantern  安装翻墙软件
